@@ -4,7 +4,7 @@
 		"label": "Student",
 		"picture": "https://media-exp1.licdn.com/dms/image/C5103AQErKUZqY3L9yg/profile-displayphoto-shrink_200_200/0/1576572794364?e=1633564800&v=beta&t=JGX8C-qFVwyTXHUj93leKMLg4_tui7pBCQQjWduNqL4",
 		"email": "2019kucp1081@iiitkota.ac.in",
-		"phone": "+91-8107794246",
+		"phone": "",
 		"summary": "I am a pre-final year student at Indian Institute of Information Technology, Kota, pursuing B.Tech in Computer Science and Engineering.",
 		"location": {
 			"city": "Udaipur",
@@ -25,11 +25,6 @@
 				"network": "linkedin",
 				"username": "khushi-mehta-2b2181191",
 				"url": "https://www.linkedin.com/in/khushi-mehta-2b2181191/"
-			},
-			{
-				"network": "Instagram",
-				"username": "@khushi15.mehta",
-				"url": "https://instagram.com/khushi15.mehta"
 			}
 		]
 	},
